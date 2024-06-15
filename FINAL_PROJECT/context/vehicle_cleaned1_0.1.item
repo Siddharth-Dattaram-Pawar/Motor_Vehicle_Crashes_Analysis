@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" hide="false" name="Default" xmi:id="_cUdugPkKEe60XuFUxYXYDA">
+    <contextParameter comment="" name="vehicle_cleaned1_Encoding" prompt="vehicle_cleaned1_Encoding?" promptNeeded="false" repositoryContextId="" type="id_String" value="UTF-8" xmi:id="_cUdugfkKEe60XuFUxYXYDA"/>
+    <contextParameter comment="" name="vehicle_cleaned1_FieldSeparator" prompt="vehicle_cleaned1_FieldSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;,&quot;" xmi:id="_cUdugvkKEe60XuFUxYXYDA"/>
+    <contextParameter comment="" name="vehicle_cleaned1_Header" prompt="vehicle_cleaned1_Header?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1" xmi:id="_cUdug_kKEe60XuFUxYXYDA"/>
+    <contextParameter comment="" name="vehicle_cleaned1_File" prompt="vehicle_cleaned1_File?" promptNeeded="false" repositoryContextId="" type="id_File" value="C:/siddharth imp/MASTERS/SEM 2/DADABI/Final Project/Vehicle Cleaning.csv" xmi:id="_cUduhPkKEe60XuFUxYXYDA"/>
+    <contextParameter comment="" name="vehicle_cleaned1_RowSeparator" prompt="vehicle_cleaned1_RowSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;\n&quot;" xmi:id="_cUduhfkKEe60XuFUxYXYDA"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" hide="false" name="dev" xmi:id="_cUduhvkKEe60XuFUxYXYDA">
+    <contextParameter comment="" name="vehicle_cleaned1_Encoding" prompt="vehicle_cleaned1_Encoding?" promptNeeded="false" repositoryContextId="" type="id_String" value="UTF-8" xmi:id="_cUduh_kKEe60XuFUxYXYDA"/>
+    <contextParameter comment="" name="vehicle_cleaned1_FieldSeparator" prompt="vehicle_cleaned1_FieldSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;,&quot;" xmi:id="_cUduiPkKEe60XuFUxYXYDA"/>
+    <contextParameter comment="" name="vehicle_cleaned1_Header" prompt="vehicle_cleaned1_Header?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1" xmi:id="_cUduifkKEe60XuFUxYXYDA"/>
+    <contextParameter comment="" name="vehicle_cleaned1_File" prompt="vehicle_cleaned1_File?" promptNeeded="false" repositoryContextId="" type="id_File" value="C:/siddharth imp/MASTERS/SEM 2/DADABI/Final Project/Vehicle Cleaning.csv" xmi:id="_cUduivkKEe60XuFUxYXYDA"/>
+    <contextParameter comment="" name="vehicle_cleaned1_RowSeparator" prompt="vehicle_cleaned1_RowSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;\n&quot;" xmi:id="_cUdui_kKEe60XuFUxYXYDA"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" hide="false" name="prod" xmi:id="_cUdujPkKEe60XuFUxYXYDA">
+    <contextParameter comment="" name="vehicle_cleaned1_Encoding" prompt="vehicle_cleaned1_Encoding?" promptNeeded="false" repositoryContextId="" type="id_String" value="UTF-8" xmi:id="_cUdujfkKEe60XuFUxYXYDA"/>
+    <contextParameter comment="" name="vehicle_cleaned1_FieldSeparator" prompt="vehicle_cleaned1_FieldSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;,&quot;" xmi:id="_cUdujvkKEe60XuFUxYXYDA"/>
+    <contextParameter comment="" name="vehicle_cleaned1_Header" prompt="vehicle_cleaned1_Header?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1" xmi:id="_cUduj_kKEe60XuFUxYXYDA"/>
+    <contextParameter comment="" name="vehicle_cleaned1_File" prompt="vehicle_cleaned1_File?" promptNeeded="false" repositoryContextId="" type="id_File" value="C:/siddharth imp/MASTERS/SEM 2/DADABI/Final Project/Vehicle Cleaning.csv" xmi:id="_cUdukPkKEe60XuFUxYXYDA"/>
+    <contextParameter comment="" name="vehicle_cleaned1_RowSeparator" prompt="vehicle_cleaned1_RowSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;\n&quot;" xmi:id="_cUdukfkKEe60XuFUxYXYDA"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" hide="false" name="test" xmi:id="_cUdukvkKEe60XuFUxYXYDA">
+    <contextParameter comment="" name="vehicle_cleaned1_Encoding" prompt="vehicle_cleaned1_Encoding?" promptNeeded="false" repositoryContextId="" type="id_String" value="UTF-8" xmi:id="_cUduk_kKEe60XuFUxYXYDA"/>
+    <contextParameter comment="" name="vehicle_cleaned1_FieldSeparator" prompt="vehicle_cleaned1_FieldSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;,&quot;" xmi:id="_cUdulPkKEe60XuFUxYXYDA"/>
+    <contextParameter comment="" name="vehicle_cleaned1_Header" prompt="vehicle_cleaned1_Header?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1" xmi:id="_cUdulfkKEe60XuFUxYXYDA"/>
+    <contextParameter comment="" name="vehicle_cleaned1_File" prompt="vehicle_cleaned1_File?" promptNeeded="false" repositoryContextId="" type="id_File" value="C:/siddharth imp/MASTERS/SEM 2/DADABI/Final Project/Vehicle Cleaning.csv" xmi:id="_cUdulvkKEe60XuFUxYXYDA"/>
+    <contextParameter comment="" name="vehicle_cleaned1_RowSeparator" prompt="vehicle_cleaned1_RowSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;\n&quot;" xmi:id="_cUdul_kKEe60XuFUxYXYDA"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_39ae4bdb-72cf-418d-81ae-a06fc01a501b"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>cxJwqDxQkHHBPT2Q9Q2mXEkzRrqlBHBxaaGB41ypUm39qsh9zwWxDXIPy7+J+vC6DU3sIm267l1x&#13;
+a+MgU7to9Q==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_26df943b-a860-4589-8148-92954651f5a4"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>KJfS0qHHmNaRx8EBQ/B85JH4QtdJwBncqIqepskEKel1t9ciuPud8gXAtZ8/EsMa5+bOh9wlBO+C&#13;
+oG+jdeu/hQ==</DigestValue></Reference></SignedInfo><SignatureValue>eUfNR4Z1zmqvuS3L3jAZkQ8uSM1BX1/SoDBSVagIv1CFwKfz21y7gz5NxISA6t5M7ZdehcyzIBfY&#13;
+XTP8sXXWxup1uYISt8FdXQeEa8Zw9JyWMjDZhw9IU/3zFbesMmnPNNTLOMORnp7MQ97BmQBsRiN9&#13;
+ogpohuqyhfIi7HZhLA3BGxR+TyAZ1TNtNf0QPEU0P50rzU2DQIJqc3TgfmLpWJEQu4f+/R1a+4JN&#13;
+1ctjE7KIxVmCj4KJ9RBuOmJEtKeO1HbS2H1yCjg+BpYPgav4CgaAIyLAmkDjooe0IsI3tUGR0ilj&#13;
+vw225wRUYD/nTUM9+hEO0g+vTrCO/WtZU0Xi4g==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh&#13;
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB&#13;
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2&#13;
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl&#13;
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx&#13;
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B&#13;
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ&#13;
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF&#13;
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG&#13;
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM&#13;
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA&#13;
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw&#13;
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/&#13;
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG&#13;
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13;
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_26df943b-a860-4589-8148-92954651f5a4" Target="#_39ae4bdb-72cf-418d-81ae-a06fc01a501b"><Timestamp>2024-04-12 20:22:54</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>

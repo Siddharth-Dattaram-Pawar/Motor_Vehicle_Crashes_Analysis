@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" hide="false" name="Default" xmi:id="_aDy94PSgEe6kuej5_Yp7nA">
+    <contextParameter comment="" name="mapping_document_FieldSeparator" prompt="mapping_document_FieldSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;,&quot;" xmi:id="_aDy94fSgEe6kuej5_Yp7nA"/>
+    <contextParameter comment="" name="mapping_document_Encoding" prompt="mapping_document_Encoding?" promptNeeded="false" repositoryContextId="" type="id_String" value="UTF-8" xmi:id="_aDy94vSgEe6kuej5_Yp7nA"/>
+    <contextParameter comment="" name="mapping_document_File" prompt="mapping_document_File?" promptNeeded="false" repositoryContextId="" type="id_File" value="C:/siddharth imp/MASTERS/SEM 2/DADABI/Final Project/Contributing Factor Mapping.csv" xmi:id="_aDy94_SgEe6kuej5_Yp7nA"/>
+    <contextParameter comment="" name="mapping_document_RowSeparator" prompt="mapping_document_RowSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;\n&quot;" xmi:id="_aDy95PSgEe6kuej5_Yp7nA"/>
+    <contextParameter comment="" name="mapping_document_Header" prompt="mapping_document_Header?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1" xmi:id="_aDy95fSgEe6kuej5_Yp7nA"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" hide="false" name="dev" xmi:id="_aDy95vSgEe6kuej5_Yp7nA">
+    <contextParameter comment="" name="mapping_document_FieldSeparator" prompt="mapping_document_FieldSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;,&quot;" xmi:id="_aDy95_SgEe6kuej5_Yp7nA"/>
+    <contextParameter comment="" name="mapping_document_Encoding" prompt="mapping_document_Encoding?" promptNeeded="false" repositoryContextId="" type="id_String" value="UTF-8" xmi:id="_aDy96PSgEe6kuej5_Yp7nA"/>
+    <contextParameter comment="" name="mapping_document_File" prompt="mapping_document_File?" promptNeeded="false" repositoryContextId="" type="id_File" value="C:/siddharth imp/MASTERS/SEM 2/DADABI/Final Project/Contributing Factor Mapping.csv" xmi:id="_aDy96fSgEe6kuej5_Yp7nA"/>
+    <contextParameter comment="" name="mapping_document_RowSeparator" prompt="mapping_document_RowSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;\n&quot;" xmi:id="_aDy96vSgEe6kuej5_Yp7nA"/>
+    <contextParameter comment="" name="mapping_document_Header" prompt="mapping_document_Header?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1" xmi:id="_aDy96_SgEe6kuej5_Yp7nA"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" hide="false" name="prod" xmi:id="_aDy97PSgEe6kuej5_Yp7nA">
+    <contextParameter comment="" name="mapping_document_FieldSeparator" prompt="mapping_document_FieldSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;,&quot;" xmi:id="_aDy97fSgEe6kuej5_Yp7nA"/>
+    <contextParameter comment="" name="mapping_document_Encoding" prompt="mapping_document_Encoding?" promptNeeded="false" repositoryContextId="" type="id_String" value="UTF-8" xmi:id="_aDy97vSgEe6kuej5_Yp7nA"/>
+    <contextParameter comment="" name="mapping_document_File" prompt="mapping_document_File?" promptNeeded="false" repositoryContextId="" type="id_File" value="C:/siddharth imp/MASTERS/SEM 2/DADABI/Final Project/Contributing Factor Mapping.csv" xmi:id="_aDy97_SgEe6kuej5_Yp7nA"/>
+    <contextParameter comment="" name="mapping_document_RowSeparator" prompt="mapping_document_RowSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;\n&quot;" xmi:id="_aDy98PSgEe6kuej5_Yp7nA"/>
+    <contextParameter comment="" name="mapping_document_Header" prompt="mapping_document_Header?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1" xmi:id="_aDy98fSgEe6kuej5_Yp7nA"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" hide="false" name="test" xmi:id="_aDy98vSgEe6kuej5_Yp7nA">
+    <contextParameter comment="" name="mapping_document_FieldSeparator" prompt="mapping_document_FieldSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;,&quot;" xmi:id="_aDy98_SgEe6kuej5_Yp7nA"/>
+    <contextParameter comment="" name="mapping_document_Encoding" prompt="mapping_document_Encoding?" promptNeeded="false" repositoryContextId="" type="id_String" value="UTF-8" xmi:id="_aDy99PSgEe6kuej5_Yp7nA"/>
+    <contextParameter comment="" name="mapping_document_File" prompt="mapping_document_File?" promptNeeded="false" repositoryContextId="" type="id_File" value="C:/siddharth imp/MASTERS/SEM 2/DADABI/Final Project/Contributing Factor Mapping.csv" xmi:id="_aDy99fSgEe6kuej5_Yp7nA"/>
+    <contextParameter comment="" name="mapping_document_RowSeparator" prompt="mapping_document_RowSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;\n&quot;" xmi:id="_aDy99vSgEe6kuej5_Yp7nA"/>
+    <contextParameter comment="" name="mapping_document_Header" prompt="mapping_document_Header?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1" xmi:id="_aDy99_SgEe6kuej5_Yp7nA"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_0cece1af-8fb6-4bab-a119-446978006603"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>UCS/lJzF1A9Su30xsDE9nTko7e7TZXVY6/XeNb3u6HDPBMVxBMOK4q7UBj6fzaDLldJvJv/kwYhm&#13;
+tzk+n3aXjg==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_986808ab-a4cd-4ad6-8971-fbbc5b68d6ed"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>I5b9FgPj5uVoV/guHZFj2pXD0jVWSneuH/QwAY2W9/UAeXG1cOs4920uElCvn6/046fZJwRMrjVc&#13;
+oIcGkYdvcw==</DigestValue></Reference></SignedInfo><SignatureValue>eesg/SR9wx/Gsb4abgCG3K8tN/3nMvpPmse6iaM7jy/k/dCnWvdzv3dgwf1I8mrBjVDj+TlTMBbp&#13;
+WbmRlAVzrW9n9aZ6kLZ004jT6niCp4VV0cpWTKmfDpsWdHNe/LQ2QlNB8MPX8t/reHROkNpI5Irf&#13;
+UDzwybQlXHzxmMtg+dmHyaCDJuoV72QlACEfrBKkg7fF+8tcce5wQAYz7PJg1SoWtW7cihioJeIY&#13;
+Z4AoxR4ykK2y9UeSMiVjK1ekNu9NzTJXEf8zHzByx7F5wJ5Gz2Ym5eGlvNqkuEoByuN95lE9uYBC&#13;
+4DOXWvlUTG2GX393s9sqv9cPPw3yqodRIK5GiA==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh&#13;
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB&#13;
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2&#13;
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl&#13;
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx&#13;
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B&#13;
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ&#13;
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF&#13;
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG&#13;
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM&#13;
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA&#13;
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw&#13;
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/&#13;
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG&#13;
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13;
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_986808ab-a4cd-4ad6-8971-fbbc5b68d6ed" Target="#_0cece1af-8fb6-4bab-a119-446978006603"><Timestamp>2024-04-07 05:33:47</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>
