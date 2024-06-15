@@ -1,0 +1,670 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2023.2" RunE2="T">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>\t</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Chicago_Traffic_Crashes_-_Crashes_20240326.tsv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="CRASH_RECORD_ID" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="CRASH_DATE_EST_I" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="CRASH_DATE" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="POSTED_SPEED_LIMIT" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="TRAFFIC_CONTROL_DEVICE" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="DEVICE_CONDITION" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="WEATHER_CONDITION" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="LIGHTING_CONDITION" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="FIRST_CRASH_TYPE" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="TRAFFICWAY_TYPE" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="LANE_CNT" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="ALIGNMENT" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="ROADWAY_SURFACE_COND" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="ROAD_DEFECT" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="REPORT_TYPE" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="CRASH_TYPE" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="INTERSECTION_RELATED_I" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="NOT_RIGHT_OF_WAY_I" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="HIT_AND_RUN_I" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="DAMAGE" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="DATE_POLICE_NOTIFIED" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="PRIM_CONTRIBUTORY_CAUSE" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="SEC_CONTRIBUTORY_CAUSE" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="STREET_NO" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="STREET_DIRECTION" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="STREET_NAME" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="BEAT_OF_OCCURRENCE" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="PHOTOS_TAKEN_I" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="STATEMENTS_TAKEN_I" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="DOORING_I" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="WORK_ZONE_I" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="WORK_ZONE_TYPE" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="WORKERS_PRESENT_I" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="NUM_UNITS" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="MOST_SEVERE_INJURY" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="INJURIES_TOTAL" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="INJURIES_FATAL" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="INJURIES_INCAPACITATING" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="INJURIES_NON_INCAPACITATING" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="INJURIES_REPORTED_NOT_EVIDENT" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="INJURIES_NO_INDICATION" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="INJURIES_UNKNOWN" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="CRASH_HOUR" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="CRASH_DAY_OF_WEEK" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="CRASH_MONTH" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="LATITUDE" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="LONGITUDE" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+            <Field name="LOCATION" size="254" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="174" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\sidvi\AppData\Local\Temp\Engine_27360_5d26b07214e1704a98d1a1850336cdea_\Engine_27360_b1de6c3a9d959a4dba841cc3ec209ae7~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AutoField.AutoField">
+        <Position x="138" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Fields>
+            <Field field="CRASH_RECORD_ID" selected="True" />
+            <Field field="CRASH_DATE_EST_I" selected="True" />
+            <Field field="CRASH_DATE" selected="True" />
+            <Field field="POSTED_SPEED_LIMIT" selected="True" />
+            <Field field="TRAFFIC_CONTROL_DEVICE" selected="True" />
+            <Field field="DEVICE_CONDITION" selected="True" />
+            <Field field="WEATHER_CONDITION" selected="True" />
+            <Field field="LIGHTING_CONDITION" selected="True" />
+            <Field field="FIRST_CRASH_TYPE" selected="True" />
+            <Field field="TRAFFICWAY_TYPE" selected="True" />
+            <Field field="LANE_CNT" selected="True" />
+            <Field field="ALIGNMENT" selected="True" />
+            <Field field="ROADWAY_SURFACE_COND" selected="True" />
+            <Field field="ROAD_DEFECT" selected="True" />
+            <Field field="REPORT_TYPE" selected="True" />
+            <Field field="CRASH_TYPE" selected="True" />
+            <Field field="INTERSECTION_RELATED_I" selected="True" />
+            <Field field="NOT_RIGHT_OF_WAY_I" selected="True" />
+            <Field field="HIT_AND_RUN_I" selected="True" />
+            <Field field="DAMAGE" selected="True" />
+            <Field field="DATE_POLICE_NOTIFIED" selected="True" />
+            <Field field="PRIM_CONTRIBUTORY_CAUSE" selected="True" />
+            <Field field="SEC_CONTRIBUTORY_CAUSE" selected="True" />
+            <Field field="STREET_NO" selected="True" />
+            <Field field="STREET_DIRECTION" selected="True" />
+            <Field field="STREET_NAME" selected="True" />
+            <Field field="BEAT_OF_OCCURRENCE" selected="True" />
+            <Field field="PHOTOS_TAKEN_I" selected="True" />
+            <Field field="STATEMENTS_TAKEN_I" selected="True" />
+            <Field field="DOORING_I" selected="True" />
+            <Field field="WORK_ZONE_I" selected="True" />
+            <Field field="WORK_ZONE_TYPE" selected="True" />
+            <Field field="WORKERS_PRESENT_I" selected="True" />
+            <Field field="NUM_UNITS" selected="True" />
+            <Field field="MOST_SEVERE_INJURY" selected="True" />
+            <Field field="INJURIES_TOTAL" selected="True" />
+            <Field field="INJURIES_FATAL" selected="True" />
+            <Field field="INJURIES_INCAPACITATING" selected="True" />
+            <Field field="INJURIES_NON_INCAPACITATING" selected="True" />
+            <Field field="INJURIES_REPORTED_NOT_EVIDENT" selected="True" />
+            <Field field="INJURIES_NO_INDICATION" selected="True" />
+            <Field field="INJURIES_UNKNOWN" selected="True" />
+            <Field field="CRASH_HOUR" selected="True" />
+            <Field field="CRASH_DAY_OF_WEEK" selected="True" />
+            <Field field="CRASH_MONTH" selected="True" />
+            <Field field="LATITUDE" selected="True" />
+            <Field field="LONGITUDE" selected="True" />
+            <Field field="LOCATION" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </Fields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="CRASH_RECORD_ID" size="128" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="String" />
+            <Field name="CRASH_DATE_EST_I" size="1" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="String" />
+            <Field name="CRASH_DATE" size="22" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="String" />
+            <Field name="POSTED_SPEED_LIMIT" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="Byte" />
+            <Field name="TRAFFIC_CONTROL_DEVICE" size="24" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_String" />
+            <Field name="DEVICE_CONDITION" size="24" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_String" />
+            <Field name="WEATHER_CONDITION" size="24" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_String" />
+            <Field name="LIGHTING_CONDITION" size="22" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_String" />
+            <Field name="FIRST_CRASH_TYPE" size="28" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_String" />
+            <Field name="TRAFFICWAY_TYPE" size="31" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_String" />
+            <Field name="LANE_CNT" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="Int32" />
+            <Field name="ALIGNMENT" size="21" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="String" />
+            <Field name="ROADWAY_SURFACE_COND" size="15" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_String" />
+            <Field name="ROAD_DEFECT" size="17" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_String" />
+            <Field name="REPORT_TYPE" size="26" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_String" />
+            <Field name="CRASH_TYPE" size="32" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_String" />
+            <Field name="INTERSECTION_RELATED_I" size="1" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="String" />
+            <Field name="NOT_RIGHT_OF_WAY_I" size="1" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="String" />
+            <Field name="HIT_AND_RUN_I" size="1" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="String" />
+            <Field name="DAMAGE" size="13" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="String" />
+            <Field name="DATE_POLICE_NOTIFIED" size="22" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="String" />
+            <Field name="PRIM_CONTRIBUTORY_CAUSE" size="80" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_String" />
+            <Field name="SEC_CONTRIBUTORY_CAUSE" size="80" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_String" />
+            <Field name="STREET_NO" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="Int32" />
+            <Field name="STREET_DIRECTION" size="1" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="String" />
+            <Field name="STREET_NAME" size="31" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_String" />
+            <Field name="BEAT_OF_OCCURRENCE" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="Int16" />
+            <Field name="PHOTOS_TAKEN_I" size="1" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="String" />
+            <Field name="STATEMENTS_TAKEN_I" size="1" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="String" />
+            <Field name="DOORING_I" size="1" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="String" />
+            <Field name="WORK_ZONE_I" size="1" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="String" />
+            <Field name="WORK_ZONE_TYPE" size="12" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="V_String" />
+            <Field name="WORKERS_PRESENT_I" size="1" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="String" />
+            <Field name="NUM_UNITS" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="Byte" />
+            <Field name="MOST_SEVERE_INJURY" size="24" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="String" />
+            <Field name="INJURIES_TOTAL" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="Byte" />
+            <Field name="INJURIES_FATAL" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="Byte" />
+            <Field name="INJURIES_INCAPACITATING" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="Byte" />
+            <Field name="INJURIES_NON_INCAPACITATING" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="Byte" />
+            <Field name="INJURIES_REPORTED_NOT_EVIDENT" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="Byte" />
+            <Field name="INJURIES_NO_INDICATION" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="Byte" />
+            <Field name="INJURIES_UNKNOWN" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="Byte" />
+            <Field name="CRASH_HOUR" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="Byte" />
+            <Field name="CRASH_DAY_OF_WEEK" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="Byte" />
+            <Field name="CRASH_MONTH" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="Byte" />
+            <Field name="LATITUDE" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="Double" />
+            <Field name="LONGITUDE" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="Double" />
+            <Field name="LOCATION" size="40" source="File: C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Traffic_Crashes_-_Crashes_20240326.tsv" type="String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxAutoField" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextToColumns.TextToColumns">
+        <Position x="258" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Field>CRASH_DATE</Field>
+          <ErrorHandling>Last</ErrorHandling>
+          <RootName>CRASH_DATE, CRASH_TIME</RootName>
+          <Delimeters value=" " />
+          <NumFields value="2" />
+          <Flags value="0" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextToColumns" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextToColumns.TextToColumns">
+        <Position x="378" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Field>DATE_POLICE_NOTIFIED</Field>
+          <ErrorHandling>Last</ErrorHandling>
+          <RootName>DATE_POLICE_NOTIFIED,TIME_POLICE_NOTIFIED</RootName>
+          <Delimeters value=" " />
+          <NumFields value="2" />
+          <Flags value="0" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextToColumns" />
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DateTime.DateTime">
+        <Position x="510" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <IsFrom value="False" />
+          <InputFieldName>CRASH_DATE, CRASH_TIME1</InputFieldName>
+          <Language>English</Language>
+          <Format>MM/dd/yyyy</Format>
+          <OutputFieldName>CRASH_DATE_CONVERTED</OutputFieldName>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Convert CRASH_DATE, CRASH_TIME1 From:
+MM/dd/yyyy</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDateTime" />
+    </Node>
+    <Node ToolID="11">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DateTime.DateTime">
+        <Position x="630" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <IsFrom value="False" />
+          <InputFieldName>DATE_POLICE_NOTIFIED,TIME_POLICE_NOTIFIED1</InputFieldName>
+          <Language>English</Language>
+          <Format>MM/dd/yyyy</Format>
+          <OutputFieldName>DATE_POLICE_NOTIFIED_CONVERTED</OutputFieldName>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Convert DATE_POLICE_NOTIFIED,TIME_POLICE_NOTIFIED1 From:
+MM/dd/yyyy</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDateTime" />
+    </Node>
+    <Node ToolID="14">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="750" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="DateTimeFormat(DateTimeParse([CRASH_DATE, CRASH_TIME2], &quot;%I:%M:%S %p&quot;), &quot;%H:%M:%S&quot;)&#xA;&#xA;&#xA;" field="CRASH_TIME_CONVERTED" size="1073741823" type="V_WString" />
+            <FormulaField expression="DateTimeFormat(DateTimeParse([DATE_POLICE_NOTIFIED,TIME_POLICE_NOTIFIED2], &quot;%I:%M:%S %p&quot;), &quot;%H:%M:%S&quot;)&#xA;&#xA;&#xA;" field="TIME_POLICE_NOTIFIED_CONVERTED" size="1073741823" type="V_WString" />
+            <FormulaField expression="DateTimeNow()" field="DI_CreatedDate" size="1073741823" type="V_WString" />
+            <FormulaField expression="FileGetFileName(&quot;C:\siddharth imp\MASTERS\SEM 2\DADABI\Final Project\Chicago_Data_Profiling_Workflow.yxmd&quot;)" field="DI_WorkflowFileName" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>CRASH_TIME_CONVERTED = DateTimeFormat(DateTimeParse([CRASH_DATE, CRASH_TIME2], "...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="15">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="882" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\sidvi\AppData\Local\Temp\Engine_27360_5d26b07214e1704a98d1a1850336cdea_\Engine_27360_71bb0eee61b7b34381487b742004a739~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="16">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="78" y="306" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="CRASH_RECORD_ID" selected="True" />
+            <SelectField field="CRASH_DATE_EST_I" selected="True" />
+            <SelectField field="POSTED_SPEED_LIMIT" selected="True" type="Int32" size="4" />
+            <SelectField field="TRAFFIC_CONTROL_DEVICE" selected="True" />
+            <SelectField field="DEVICE_CONDITION" selected="True" />
+            <SelectField field="WEATHER_CONDITION" selected="True" />
+            <SelectField field="LIGHTING_CONDITION" selected="True" />
+            <SelectField field="FIRST_CRASH_TYPE" selected="True" />
+            <SelectField field="TRAFFICWAY_TYPE" selected="True" />
+            <SelectField field="LANE_CNT" selected="True" />
+            <SelectField field="ALIGNMENT" selected="True" type="V_String" size="21" />
+            <SelectField field="ROADWAY_SURFACE_COND" selected="True" />
+            <SelectField field="ROAD_DEFECT" selected="True" />
+            <SelectField field="REPORT_TYPE" selected="True" />
+            <SelectField field="CRASH_TYPE" selected="True" />
+            <SelectField field="INTERSECTION_RELATED_I" selected="True" />
+            <SelectField field="NOT_RIGHT_OF_WAY_I" selected="True" />
+            <SelectField field="HIT_AND_RUN_I" selected="True" />
+            <SelectField field="DAMAGE" selected="True" />
+            <SelectField field="PRIM_CONTRIBUTORY_CAUSE" selected="True" />
+            <SelectField field="SEC_CONTRIBUTORY_CAUSE" selected="True" />
+            <SelectField field="STREET_NO" selected="True" />
+            <SelectField field="STREET_DIRECTION" selected="True" />
+            <SelectField field="STREET_NAME" selected="True" />
+            <SelectField field="BEAT_OF_OCCURRENCE" selected="True" />
+            <SelectField field="PHOTOS_TAKEN_I" selected="True" />
+            <SelectField field="STATEMENTS_TAKEN_I" selected="True" />
+            <SelectField field="DOORING_I" selected="True" />
+            <SelectField field="WORK_ZONE_I" selected="True" />
+            <SelectField field="WORK_ZONE_TYPE" selected="True" />
+            <SelectField field="WORKERS_PRESENT_I" selected="True" />
+            <SelectField field="NUM_UNITS" selected="True" type="Int32" size="4" />
+            <SelectField field="MOST_SEVERE_INJURY" selected="True" />
+            <SelectField field="INJURIES_TOTAL" selected="True" type="Int32" size="4" />
+            <SelectField field="INJURIES_FATAL" selected="True" type="Int32" size="4" />
+            <SelectField field="INJURIES_INCAPACITATING" selected="True" type="Int32" size="4" />
+            <SelectField field="INJURIES_NON_INCAPACITATING" selected="True" type="Int32" size="4" />
+            <SelectField field="INJURIES_REPORTED_NOT_EVIDENT" selected="True" type="Int32" size="4" />
+            <SelectField field="INJURIES_NO_INDICATION" selected="True" type="Int32" size="4" />
+            <SelectField field="INJURIES_UNKNOWN" selected="True" type="Int32" size="4" />
+            <SelectField field="LATITUDE" selected="True" />
+            <SelectField field="LONGITUDE" selected="True" />
+            <SelectField field="CRASH_DATE_CONVERTED" selected="True" />
+            <SelectField field="DATE_POLICE_NOTIFIED_CONVERTED" selected="True" />
+            <SelectField field="CRASH_TIME_CONVERTED" selected="True" />
+            <SelectField field="TIME_POLICE_NOTIFIED_CONVERTED" selected="True" />
+            <SelectField field="DI_CreatedDate" selected="True" />
+            <SelectField field="DI_WorkflowFileName" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="17">
+      <GuiSettings>
+        <Position x="234" y="306" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Select Fields">CRASH_RECORD_ID=True,CRASH_DATE_EST_I=True,POSTED_SPEED_LIMIT=True,TRAFFIC_CONTROL_DEVICE=True,DEVICE_CONDITION=True,WEATHER_CONDITION=True,LIGHTING_CONDITION=True,FIRST_CRASH_TYPE=True,TRAFFICWAY_TYPE=True,LANE_CNT=True,ALIGNMENT=True,ROADWAY_SURFACE_COND=True,ROAD_DEFECT=True,REPORT_TYPE=True,CRASH_TYPE=True,INTERSECTION_RELATED_I=True,NOT_RIGHT_OF_WAY_I=True,HIT_AND_RUN_I=True,DAMAGE=True,PRIM_CONTRIBUTORY_CAUSE=True,SEC_CONTRIBUTORY_CAUSE=True,STREET_NO=True,STREET_DIRECTION=True,STREET_NAME=True,BEAT_OF_OCCURRENCE=True,PHOTOS_TAKEN_I=True,STATEMENTS_TAKEN_I=True,DOORING_I=True,WORK_ZONE_I=True,WORK_ZONE_TYPE=True,WORKERS_PRESENT_I=True,NUM_UNITS=True,MOST_SEVERE_INJURY=True,INJURIES_TOTAL=True,INJURIES_FATAL=True,INJURIES_INCAPACITATING=True,INJURIES_NON_INCAPACITATING=True,INJURIES_REPORTED_NOT_EVIDENT=True,INJURIES_NO_INDICATION=True,INJURIES_UNKNOWN=True,LATITUDE=True,LONGITUDE=True,CRASH_DATE_CONVERTED=True,DATE_POLICE_NOTIFIED_CONVERTED=True,CRASH_TIME_CONVERTED=True,TIME_POLICE_NOTIFIED_CONVERTED=True</Value>
+          <Value name="Sample Data">False</Value>
+          <Value name="Number">True</Value>
+          <Value name="NNumber">5000</Value>
+          <Value name="Percent">False</Value>
+          <Value name="NPercent">10</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="Predictive Tools\Field_Summary_Report.yxmc" />
+    </Node>
+    <Node ToolID="18">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="354" y="270" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\sidvi\AppData\Local\Temp\Engine_27360_5d26b07214e1704a98d1a1850336cdea_\Engine_27360_10be60148a016f4fb4a91c6b78fc8830~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Report</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="19">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="426" y="294" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\sidvi\AppData\Local\Temp\Engine_27360_5d26b07214e1704a98d1a1850336cdea_\Engine_27360_0afed153b814064c9375fe291c6a68d4~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Report</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="20">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="366" y="342" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\sidvi\AppData\Local\Temp\Engine_27360_5d26b07214e1704a98d1a1850336cdea_\Engine_27360_80289ffc9a884842ab11499f15c36948~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Report</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="21">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="174" y="378" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\sidvi\AppData\Local\Temp\Engine_27360_5d26b07214e1704a98d1a1850336cdea_\Engine_27360_016c5e6e84c113429029e8a72568241f~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="3" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="5" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="7" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="9" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="Output" />
+      <Destination ToolID="11" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="11" Connection="Output" />
+      <Destination ToolID="14" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="14" Connection="Output" />
+      <Destination ToolID="15" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="14" Connection="Output" />
+      <Destination ToolID="16" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="16" Connection="Output" />
+      <Destination ToolID="17" Connection="Field Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="16" Connection="Output" />
+      <Destination ToolID="21" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="17" Connection="Output" />
+      <Destination ToolID="18" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="17" Connection="Reports" />
+      <Destination ToolID="19" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="17" Connection="Interactive" />
+      <Destination ToolID="20" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Chicago_Data_Profiling_Workflow</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="9f58dd82-1048-486d-a5aa-69487549eac3" />
+      <Telemetry>
+        <PreviousWorkflowId value="55fb1c5a-4404-4223-b33a-972cbabd4c92" />
+        <OriginWorkflowId value="55fb1c5a-4404-4223-b33a-972cbabd4c92" />
+      </Telemetry>
+      <PlatformWorkflowId value="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
