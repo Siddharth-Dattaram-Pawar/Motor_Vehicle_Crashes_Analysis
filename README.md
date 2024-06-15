@@ -10,3 +10,8 @@
 5. For effective interpretation and presentation of data, we employed real-time PowerBI and Tableau dashboards encompassing significant KPIs and wrote SQL validation queries for all BI questions, ensuring accuracy through a meticulous comparison with the generated visuals
 
 **Functional Skills and Tools utilized** :
+
+Languages : Python, MySQL, RDBMS 
+● Databases : Azure Data Studio, SQL Server, SSMS 
+● Visualization and Analytics: PowerBI, Tableau, Alteryx, Talend, ER Studio 
+● Functional Skills : Data Engineering, Data Analysis, Data Warehousing, Data Visualization, Data Pipelining, Data Integration, Dimensional Modelling, Data Modelling, ETL, Big Data, Data Profiling, Analytical thinking, Problem Solving 
