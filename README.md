@@ -11,7 +11,10 @@
 
 **Functional Skills and Tools utilized** :
 
-Languages : Python, MySQL, RDBMS 
-● Databases : Azure Data Studio, SQL Server, SSMS 
-● Visualization and Analytics: PowerBI, Tableau, Alteryx, Talend, ER Studio 
-● Functional Skills : Data Engineering, Data Analysis, Data Warehousing, Data Visualization, Data Pipelining, Data Integration, Dimensional Modelling, Data Modelling, ETL, Big Data, Data Profiling, Analytical thinking, Problem Solving 
+1. **Languages** : Python, MySQL
+
+2. **Databases** : Azure Data Studio, SQL Server, SSMS, RDBMS 
+
+3. **Visualization and Analytics**: PowerBI, Tableau, Alteryx, Talend, ER Studio 
+
+4. **Functional Skills** : Data Engineering, Data Analysis, Data Warehousing, Data Visualization, Data Pipelining, Data Integration, Dimensional Modelling, Data Modelling, ETL, Big Data, Data Profiling, Analytical thinking, Problem Solving 
