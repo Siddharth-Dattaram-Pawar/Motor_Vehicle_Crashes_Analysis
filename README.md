@@ -16,10 +16,13 @@
 
 **Functional Skills and Tools utilized** :
 
-1. **Languages** : Python, MySQL
+1. **Languages** : ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge) ![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge)
 
-2. **Databases** : Azure Data Studio, SQL Server, SSMS, RDBMS 
+2. **Database Tools & Concepts:** : ![Azure Data Studio](https://img.shields.io/badge/Azure%20Data%20Studio-blueviolet?style=for-the-badge) ![SQL Server DB](https://img.shields.io/badge/SQL%20Server%20DB-red?style=for-the-badge) ![SQL Server Management Studio](https://img.shields.io/badge/SQL%20Server%20Management%20Studio-orange?style=for-the-badge) ![Relational Database Management](https://img.shields.io/badge/Relational%20Database%20Management-green?style=for-the-badge)
+ 
 
-3. **Visualization and Analytics**: PowerBI, Tableau, Alteryx, Talend, ER Studio 
+3. **Visualization and Analytics**: ![PowerBI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge) ![Tableau](https://img.shields.io/badge/Tableau-blue?style=for-the-badge) ![Alteryx](https://img.shields.io/badge/Alteryx-teal?style=for-the-badge) ![Talend](https://img.shields.io/badge/Talend-orange?style=for-the-badge) ![ER Studio](https://img.shields.io/badge/ER%20Studio-purple?style=for-the-badge)
 
-4. **Functional Skills** : Data Engineering, Data Analysis, Data Warehousing, Data Visualization, Data Pipelining, Data Integration, Dimensional Modelling, Data Modelling, ETL, Big Data, Data Profiling, Analytical thinking, Problem Solving 
+
+4. **Functional Skills** : ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-blue?style=for-the-badge) ![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-purple?style=for-the-badge) ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-orange?style=for-the-badge) ![Data Pipelining](https://img.shields.io/badge/Data%20Pipelining-teal?style=for-the-badge) ![Data Integration](https://img.shields.io/badge/Data%20Integration-green?style=for-the-badge) ![Dimensional Modelling](https://img.shields.io/badge/Dimensional%20Modelling-red?style=for-the-badge) ![ETL](https://img.shields.io/badge/ETL-yellow?style=for-the-badge) ![Data Profiling](https://img.shields.io/badge/Data%20Profiling-pink?style=for-the-badge)
+
